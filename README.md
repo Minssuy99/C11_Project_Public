@@ -149,7 +149,7 @@
 -
 -
 
-#### 📦 UI [<a href="[google.com](https://github.com/Minssuy99/C11_Project_Public/wiki/UI)" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 UI [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/UI" target="_blank">상세보기 WIKI 이동</a>]
 -
 -
 
