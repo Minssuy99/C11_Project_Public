@@ -40,7 +40,7 @@
  <!------------------------------------------------------------------------------------------------------------------------->
  
 <details>
-<summary> 🌈 UI / Effect</summary>
+<summary> 🌈 UI / Utility</summary>
  
 - <a href="https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676" target="_blank">DOTween</a>
 - <a href="https://www.kenney.nl/assets/ui-pack-rpg-expansion" target="_blank">UI Pack RPG Expansion</a>
