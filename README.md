@@ -126,6 +126,8 @@
 <details>
 <summary>📁 Scenes</summary>
  
+  * ⚙️ ___StartScene.unity___
+  * ⚙️ ___SelectScene.unity___
   * ⚙️ ___MainScene.unity___
   </details>
   
