@@ -179,15 +179,19 @@
 -
 -
 
-#### 📦 캐릭터 [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/2.-%EC%BA%90%EB%A6%AD%ED%84%B0">상세보기 WIKI 이동</a>]
+#### 📦 선택화면 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/2.-%EC%84%A0%ED%83%9D%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
 -
 -
 
-#### 📦 상점 [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/3.-%EC%83%81%EC%A0%90" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 캐릭터 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/3.-%EC%BA%90%EB%A6%AD%ED%84%B0">상세보기 WIKI 이동</a>]
 -
 -
 
-#### 📦 UI [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/UI" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 건축 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/4.-%EA%B1%B4%EC%B6%95" target="_blank">상세보기 WIKI 이동</a>]
+-
+-
+
+#### 📦 UI [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/5.-UI" target="_blank">상세보기 WIKI 이동</a>]
 -
 -
 
