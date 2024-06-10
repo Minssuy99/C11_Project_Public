@@ -171,8 +171,8 @@
 - 캐릭터 공격 및 상호작용
 
 #### 📦 건축 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/4.-%EA%B1%B4%EC%B6%95" target="_blank">상세보기 WIKI 이동</a>]
--
--
+- 건축물, 공격 가능한 건축물 설치
+- 구조물 및 아이템 제작
 
 #### 📦 UI [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/5.-UI" target="_blank">상세보기 WIKI 이동</a>]
 - 애니메이션 효과
