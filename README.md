@@ -44,6 +44,7 @@
  
 - <a href="https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676" target="_blank">DOTween</a>
 - <a href="https://www.kenney.nl/assets/ui-pack-rpg-expansion" target="_blank">UI Pack RPG Expansion</a>
+- <a href="https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938" target="_blank">Rain Maker</a>
 
  </details>
 
