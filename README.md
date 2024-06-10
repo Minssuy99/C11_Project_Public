@@ -108,17 +108,32 @@
 ### 🗂 C11_Project_Public
 
 <details>
-<summary> 📁 Animation</summary>
+<summary> 📁 Animator</summary>
  
-  * 🏃‍♀️ ___example.anim___
+  * 🏃‍♀️ ___cloud.controller___
+  * 🏃‍♀️ ___cloud2.controller___
+  * 🏃‍♀️ ___MainSceneSettingAnimator.controller___
+  * 🏃‍♀️ ___NotSelectCharacter.controller___
+  * 🏃‍♀️ ___OptionUI.controller___
+  * 🏃‍♀️ ___RainEnd.controller___
+  * 🏃‍♀️ ___RainStart.controller___
+  * 🏃‍♀️ ___SelectSceneAnimator.controller___
+  * 🏃‍♀️ ___StartSceneAnimator.controller___
 
  </details>
  
 <!------------------------------------------------------------------------------------------------------------------------->
 <details>
-<summary>📁 Input</summary>
+<summary>📁 Prefabs</summary>
  
-  * 🕹 ___example.inputactions___
+  * 🕹 ___Male.prefab___
+  * 🕹 ___Female.prefab___
+  * 🕹 ___BGM_Slider_Option.prefab___
+  * 🕹 ___SFX_Slider_Option.prefab___
+  * 🕹 ___SoundManager.prefab___
+  * 🕹 ___SceneManager.prefab___
+  * 🕹 ___UIManager.prefab___
+  * 🕹 ___OptionUI.prefab___
   </details>
   
 <!------------------------------------------------------------------------------------------------------------------------->
@@ -139,33 +154,47 @@
  </br>
 
  <details open>
-  <summary>📂 Example Folder</summary>
+  <summary>📂 Controller</summary>
 
-* 📄 ___example.cs___
+* 📄 ___CursorController.cs___
+* 📄 ___RainController.cs___
 </details>
 
 <!------------------------------------------------------------------------------------------------------------------------->
 
  <details open>
-  <summary>📂 Example Folder</summary>
+  <summary>📂 Manager</summary>
   
-* 📄 ___example.cs___
+* 📄 ___CharacterSelector.cs___
+* 📄 ___GameManager.cs___
+* 📄 ___MainSceneSoundManager.cs___
+* 📄 ___MySceneManager.cs___
+* 📄 ___SoundManager.cs___
+* 📄 ___UI_Manager.cs___
+
 </details>
 
 <!------------------------------------------------------------------------------------------------------------------------->
 
  <details open>
-  <summary>📂 Example Folder</summary>
+  <summary>📂 Player</summary>
   
-* 📄 ___example.cs___
+* 📄 ___CharacterManager.cs___
+* 📄 ___Player.cs___
+* 📄 ___PlayerCamera.cs___
+* 📄 ___PlayerCondition.cs___
+* 📄 ___PlayerController.cs___
+* 📄 ___pressEscForUseUI.cs___
+* 📄 ___Weapon.cs___
 </details>
 
 <!------------------------------------------------------------------------------------------------------------------------->
 
  <details open>
-  <summary>📂 Example Folder</summary>
+  <summary>📂 UI</summary>
   
-* 📄 ___example.cs___
+* 📄 ___Condition.cs___
+* 📄 ___UICondition.cs___
 </details>
 
 </details>
