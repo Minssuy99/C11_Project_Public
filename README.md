@@ -223,6 +223,8 @@
 - 애니메이션 효과
 - 슬라이더를 통한 볼륨조절
 
+#### 📦 기상효과 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/6.-%EA%B8%B0%EC%83%81%ED%9A%A8%EA%B3%BC" target="_blank">상세보기 WIKI 이동</a>]
+- 일정확률로 기후변화 발생
 
 
 
