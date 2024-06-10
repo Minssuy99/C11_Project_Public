@@ -80,7 +80,6 @@
 |---|---|---|
 |팀장|김민성|<a href="https://github.com/Minssuy99" target="_blank">Link</a>|
 |팀원|김태형|<a href="https://github.com/lxogud" target="_blank">Link</a>|
-|팀원|박민식|<a href="https://github.com/PuEE1004" target="_blank">Link</a>|
 |팀원|손효재|<a href="https://github.com/NFUE2" target="_blank">Link</a>|
 
 
