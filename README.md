@@ -196,7 +196,7 @@
 </br>
 
 ## ✔ 주요 기능
-#### 📦 시작화면 [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/1.-%EC%B4%88%EA%B8%B0%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 시작화면 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/1.-%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
 - 게임생성
 - 환경설정
  
