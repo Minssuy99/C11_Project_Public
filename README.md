@@ -139,53 +139,17 @@
 <!------------------------------------------------------------------------------------------------------------------------->
 
 <details>
-<summary>📁 Scripts</summary>
+<summary>📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts" target="_blank"> Scripts</a></summary>
 
  </br>
 
- <details open>
-  <summary>📂 Controller</summary>
-
-* 📄 ___CursorController.cs___
-* 📄 ___RainController.cs___
-</details>
-
-<!------------------------------------------------------------------------------------------------------------------------->
-
- <details open>
-  <summary>📂 Manager</summary>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Controller" target="_blank"> Controller</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Craft" target="_blank"> Craft</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Manager" target="_blank"> Manager</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Player" target="_blank"> Player</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/UI" target="_blank"> UI</a>
   
-* 📄 ___CharacterSelector.cs___
-* 📄 ___GameManager.cs___
-* 📄 ___MainSceneSoundManager.cs___
-* 📄 ___MySceneManager.cs___
-* 📄 ___SoundManager.cs___
-* 📄 ___UI_Manager.cs___
 
-</details>
-
-<!------------------------------------------------------------------------------------------------------------------------->
-
- <details open>
-  <summary>📂 Player</summary>
-  
-* 📄 ___CharacterManager.cs___
-* 📄 ___Player.cs___
-* 📄 ___PlayerCamera.cs___
-* 📄 ___PlayerCondition.cs___
-* 📄 ___PlayerController.cs___
-* 📄 ___pressEscForUseUI.cs___
-* 📄 ___Weapon.cs___
-</details>
-
-<!------------------------------------------------------------------------------------------------------------------------->
-
- <details open>
-  <summary>📂 UI</summary>
-  
-* 📄 ___Condition.cs___
-* 📄 ___UICondition.cs___
-</details>
 
 </details>
 
