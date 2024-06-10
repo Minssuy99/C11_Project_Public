@@ -166,8 +166,9 @@
 - 캐릭터 선택 구현
 
 #### 📦 캐릭터 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/3.-%EC%BA%90%EB%A6%AD%ED%84%B0">상세보기 WIKI 이동</a>]
--
--
+- 캐릭터 상태
+- 캐릭터 움직임
+- 캐릭터 공격 및 상호작용
 
 #### 📦 건축 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/4.-%EA%B1%B4%EC%B6%95" target="_blank">상세보기 WIKI 이동</a>]
 -
