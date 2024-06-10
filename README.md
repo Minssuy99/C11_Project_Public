@@ -86,12 +86,12 @@
 * ___24.06.03 ~ 24.06.11___
 
 ### 🧑‍🤝‍🧑 팀 구성 및 역할
-|역할|이름|담당업무|GitHub|
-|---|---|---|---|
-|팀장|김민성|README 작성|<a href="https://github.com/Minssuy99" target="_blank">Link</a>|
-|팀원|김태형|ABCDEFG|<a href="https://github.com/lxogud" target="_blank">Link</a>|
-|팀원|박민식|ABCDEFG|<a href="https://github.com/PuEE1004" target="_blank">Link</a>|
-|팀원|손효재|ABCDEFG|<a href="https://github.com/NFUE2" target="_blank">Link</a>|
+|역할|이름|GitHub|
+|---|---|---|
+|팀장|김민성|<a href="https://github.com/Minssuy99" target="_blank">Link</a>|
+|팀원|김태형|<a href="https://github.com/lxogud" target="_blank">Link</a>|
+|팀원|박민식|<a href="https://github.com/PuEE1004" target="_blank">Link</a>|
+|팀원|손효재|<a href="https://github.com/NFUE2" target="_blank">Link</a>|
 
 
 ### ⚙️ 개발 환경
@@ -204,7 +204,7 @@
 </br>
 
 ## ✔ 주요 기능
-#### 📦 초기화면 [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/1.-%EC%B4%88%EA%B8%B0%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 시작화면 [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/1.-%EC%B4%88%EA%B8%B0%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
 - 게임생성
 - 환경설정
 
