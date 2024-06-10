@@ -1540,10 +1540,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Male
       objectReference: {fileID: 0}
-    - target: {fileID: 3918987187617739782, guid: 2d71d99e59cca2c45bcd9a4eae8b5e97, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1552,6 +1548,11 @@ PrefabInstance:
 --- !u!4 &876277277 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1372747042981215506, guid: 2d71d99e59cca2c45bcd9a4eae8b5e97, type: 3}
+  m_PrefabInstance: {fileID: 876277276}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &876277279 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6998072373217513909, guid: 2d71d99e59cca2c45bcd9a4eae8b5e97, type: 3}
   m_PrefabInstance: {fileID: 876277276}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &883516210
@@ -2105,6 +2106,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1267259463}
   m_CullTransparentMesh: 1
+--- !u!1 &1429849406 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9184325597594971143, guid: 2d71d99e59cca2c45bcd9a4eae8b5e97, type: 3}
+  m_PrefabInstance: {fileID: 876277276}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1439491955
 GameObject:
   m_ObjectHideFlags: 0
@@ -2402,6 +2408,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
+  weapons:
+  - {fileID: 876277279}
+  - {fileID: 1429849406}
+  - {fileID: 1652669669}
+  - {fileID: 1652669668}
   condition: {fileID: 0}
 --- !u!1 &1538178466
 GameObject:
@@ -2980,10 +2991,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Female
       objectReference: {fileID: 0}
-    - target: {fileID: 4718225364250411605, guid: e93cab26c29449246a5d93f18f01eea3, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8466849823314199559, guid: e93cab26c29449246a5d93f18f01eea3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -3032,6 +3039,16 @@ PrefabInstance:
 --- !u!4 &1652669667 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8466849823314199559, guid: e93cab26c29449246a5d93f18f01eea3, type: 3}
+  m_PrefabInstance: {fileID: 1652669666}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1652669668 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2274558025188289064, guid: e93cab26c29449246a5d93f18f01eea3, type: 3}
+  m_PrefabInstance: {fileID: 1652669666}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1652669669 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 66786547690069971, guid: e93cab26c29449246a5d93f18f01eea3, type: 3}
   m_PrefabInstance: {fileID: 1652669666}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1658965418
@@ -3840,8 +3857,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rainPrefab: {fileID: 1682386796}
-  activationProbability: 1
-  activeDuration: 10
+  activationProbability: 50
+  activeDuration: 15
   checkInterval: 60
   fadeOutDuration: 10
   RainStart: {fileID: 241816308}
