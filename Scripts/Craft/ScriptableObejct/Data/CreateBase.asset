@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1b1b921f9767a4d8749fc51fc42cc3, type: 3}
+  m_Name: CreateBase
+  m_EditorClassIdentifier: 
+  objectName: "\uD14C\uC2A4\uD2B8"
+  content: "\uD14C\uC2A4\uD2B8\uC6A9 \uC544\uC774\uD15C\uC785\uB2C8\uB2E4"
+  icon: {fileID: 21300000, guid: 437082d34dad9974e97c13e241593816, type: 3}
+  resources:
+  - type: 0
+    amount: 10
+  - type: 1
+    amount: 20
+  durability: 0
+  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  prefab: {fileID: 1667963837895905301, guid: aa08ab009728b4845b844b710ccab27b, type: 3}

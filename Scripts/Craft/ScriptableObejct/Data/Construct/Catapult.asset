@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ba3b60cb54452a45b95b86fc3fbaa8f, type: 3}
+  m_Name: Catapult
+  m_EditorClassIdentifier: 
+  objectName: "\uD22C\uC11D\uAE30"
+  content: "\uAC70\uB300\uD55C \uB3CC\uC744 \uD22C\uCC99\uD558\uB294 \uAC74\uCD95\uBB3C\uC785\uB2C8\uB2E4."
+  icon: {fileID: 0}
+  resources: []
+  prefab: {fileID: 0}
+  attackRate: 10
+  attackDistance: 5
