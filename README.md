@@ -205,12 +205,11 @@
 
 ## ✔ 주요 기능
 #### 📦 초기화면 [<a href="https://github.com/Minssuy99/C11_Project_Public/wiki/1.-%EC%B4%88%EA%B8%B0%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
--
--
+- 게임생성
+- 환경설정
 
 #### 📦 선택화면 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/2.-%EC%84%A0%ED%83%9D%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
--
--
+- 캐릭터 선택 구현
 
 #### 📦 캐릭터 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/3.-%EC%BA%90%EB%A6%AD%ED%84%B0">상세보기 WIKI 이동</a>]
 -
@@ -221,8 +220,8 @@
 -
 
 #### 📦 UI [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/5.-UI" target="_blank">상세보기 WIKI 이동</a>]
--
--
+- 애니메이션 효과
+- 슬라이더를 통한 볼륨조절
 
 
 
