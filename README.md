@@ -1,7 +1,9 @@
 # 🐳 C11_태형있는 태형팀
 프로젝트를 깃허브에 업로드했으나, 사용된 에셋 패키지들은
 
-라이선스 규정에 따라 제외되었기 때문에 정상적인 실행이 불가능합니다.
+라이선스 규정에 따라 제외되었기 때문에 현재 리포지터리에서 확인이 불가합니다.
+
+✔ <a href="https://drive.google.com/file/d/1HGnD6mxCI1ZkY28uA0WU8JAVm87sdO1I/view?usp=drive_link" target="_blank">이 링크를 눌러 게임 다운로드</a>
 <!------------------------------------------------------------------------------------------------------------------------->
 ### 에셋 목록
 
@@ -62,7 +64,7 @@
 <!------------------------------------------------------------------------------------------------------------------------->
 
 ## 🖥️ 프로젝트 소개
-3D 탑뷰에서 바리케이드를 설치하고 웨이브마다 공격해오는 몬스터들을 처치하며 버티는 게임입니다.
+#### 3D 탑뷰에서 바리케이드를 설치하고 웨이브마다 공격해오는 몬스터들을 처치하며 버티는 게임입니다.
 
 ![썸네일](https://github.com/Minssuy99/C11_TheFirstFantasy_Public/assets/101568505/dafa6787-7712-4da6-af87-6a61e16b2f2d)
 
@@ -70,6 +72,10 @@
 </br>
 
 <!------------------------------------------------------------------------------------------------------------------------->
+
+## 🎮 조작키
+#### 이 게임은 키보드로 진행됩니다.
+![image](https://github.com/Minssuy99/C11_TheFirstFantasy_Public/assets/101568505/95575f4f-9490-4acd-b67e-dde8daefd702)
 
 
 ## 🕐 개발 기간
@@ -80,7 +86,6 @@
 |---|---|---|
 |팀장|김민성|<a href="https://github.com/Minssuy99" target="_blank">Link</a>|
 |팀원|김태형|<a href="https://github.com/lxogud" target="_blank">Link</a>|
-|팀원|박민식|<a href="https://github.com/PuEE1004" target="_blank">Link</a>|
 |팀원|손효재|<a href="https://github.com/NFUE2" target="_blank">Link</a>|
 
 
@@ -139,53 +144,17 @@
 <!------------------------------------------------------------------------------------------------------------------------->
 
 <details>
-<summary>📁 Scripts</summary>
+<summary>📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts" target="_blank"> Scripts</a></summary>
 
  </br>
 
- <details open>
-  <summary>📂 Controller</summary>
-
-* 📄 ___CursorController.cs___
-* 📄 ___RainController.cs___
-</details>
-
-<!------------------------------------------------------------------------------------------------------------------------->
-
- <details open>
-  <summary>📂 Manager</summary>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Controller" target="_blank"> Controller</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Craft" target="_blank"> Craft</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Manager" target="_blank"> Manager</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/Player" target="_blank"> Player</a>
+ * 📁<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/tree/main/Scripts/UI" target="_blank"> UI</a>
   
-* 📄 ___CharacterSelector.cs___
-* 📄 ___GameManager.cs___
-* 📄 ___MainSceneSoundManager.cs___
-* 📄 ___MySceneManager.cs___
-* 📄 ___SoundManager.cs___
-* 📄 ___UI_Manager.cs___
 
-</details>
-
-<!------------------------------------------------------------------------------------------------------------------------->
-
- <details open>
-  <summary>📂 Player</summary>
-  
-* 📄 ___CharacterManager.cs___
-* 📄 ___Player.cs___
-* 📄 ___PlayerCamera.cs___
-* 📄 ___PlayerCondition.cs___
-* 📄 ___PlayerController.cs___
-* 📄 ___pressEscForUseUI.cs___
-* 📄 ___Weapon.cs___
-</details>
-
-<!------------------------------------------------------------------------------------------------------------------------->
-
- <details open>
-  <summary>📂 UI</summary>
-  
-* 📄 ___Condition.cs___
-* 📄 ___UICondition.cs___
-</details>
 
 </details>
 
@@ -202,12 +171,13 @@
 - 캐릭터 선택 구현
 
 #### 📦 캐릭터 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/3.-%EC%BA%90%EB%A6%AD%ED%84%B0">상세보기 WIKI 이동</a>]
--
--
+- 캐릭터 상태
+- 캐릭터 움직임
+- 캐릭터 공격 및 상호작용
 
 #### 📦 건축 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/4.-%EA%B1%B4%EC%B6%95" target="_blank">상세보기 WIKI 이동</a>]
--
--
+- 건축물, 공격 가능한 건축물 설치
+- 구조물 및 아이템 제작
 
 #### 📦 UI [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/5.-UI" target="_blank">상세보기 WIKI 이동</a>]
 - 애니메이션 효과
