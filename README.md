@@ -3,7 +3,7 @@
 
 라이선스 규정에 따라 제외되었기 때문에 정상적인 실행이 불가능합니다.
 
-- <a href="https://drive.google.com/file/d/1HGnD6mxCI1ZkY28uA0WU8JAVm87sdO1I/view?usp=drive_link" target="_blank">이 링크를 눌러 게임 다운로드</a>
+✔ <a href="https://drive.google.com/file/d/1HGnD6mxCI1ZkY28uA0WU8JAVm87sdO1I/view?usp=drive_link" target="_blank">이 링크를 눌러 게임 다운로드</a>
 <!------------------------------------------------------------------------------------------------------------------------->
 ### 에셋 목록
 
